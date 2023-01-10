@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+    background-color: darkblue;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    border-color: black;
+    border-width: 5px;
+}
+
+.title{
+    font-family: 'Verdana';
+    font-weight: ;font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    /* identical to box height, or 90% */
+
+    text-align: center;
+
+    color: #EEEEEE;
+}
+
+.score{
+    
+
+    font-family: 'Orbitron';
+    font-style: sans-serif;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;
+    /* or 141% */
+
+    text-align: center;
+
+    color: #F94F6D;
+}
+
+.scorediv{
+
+    width: 160px;
+    height: 130px;
+    left: 125px;
+    top: 125px;
+    background-color: black;
+
+}
+
+.add-btn{
+
+    width: 45px;
+    height: 45px;
+    left: 82px;
+    top: 271px;
+    font-family: 'Orbitron';
+    font-style: sans-serif;
+    border-color: #00FFFF;
+    font-size: 15px;
+
+
+}
+
+.main-title{
+    font-family: tahoma;
+    color: darkred;
+    text-align: center;
+}
+
+.resetH{
+    
+    font-size: 25px;
+    font-family: 'Orbitron';
+    font-style: sans-serif;
+    border-color: red;
+    border-radius: 6px;
+    font-size: 15px;
+    width: 150px;
+    height: 30px;
+
+}
+
+.resetG{
+    
+    font-size: 25px;
+    font-family: 'Orbitron';
+    font-style: sans-serif;
+    border-color: red;
+    border-radius: 6px;
+    font-size: 15px;
+    width: 150px;
+    height: 30px;
+
+}
+
